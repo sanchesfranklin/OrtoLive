@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.logo img {
+    width: 300px;
+    height: 90px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.sociais ul li {
+    display: inline;
+    list-style: none;
+    font-size: 40px;
+    margin-left: 15px;
+}
+
+.sociais ul {
+    padding: 0;
+}
+
+.jumbotron {
+    background-image: url(../img/backjumbotron.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.card01 img {
+    height: 330px;
+    width: 350px;
+}
+
+.bloco-video {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.background {
+    background-color: #faeee7;
+}
+
+.depoimento img {
+    width: 100px;
+    height: 100px;
+}
+
+.compra {
+    background-color: #272343;
+    height: 140px;
+}
+
+.faq li{
+    margin-top: 10px;    
+}
+
+.rodape {
+    height: 95px;
+    margin-top: 30px;
+}
+
+.rodape p {
+    margin-top: 25px;
+    margin-bottom: 0;
+}
+
+.termo h6 {
+    font-weight: bold;
+    margin-top: 30px;
+}
